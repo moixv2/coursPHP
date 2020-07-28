@@ -1,0 +1,50 @@
+TOUT LES EXERCICES SONT SIMPLES, DES REPONSES SONT FACILEMENTS TROUVABLES SUR INTERNET
+SI VOUS AVEZ LA LOGIQUE ET PAS LA SYNTAXE(cherchez sur google d'abord) ET SI VOUS TROUVEZ PAS, VOUS POUVEZ NOTER EN PSEUDO CODE:
+
+"SI variable est égale a 45..."
+
+
+
+
+
+
+1. Déclarez une variable et assignez-lui une valeur numérique, c'est-à-dire un nombre, par exemple, 42.
+
+2. Déclarez deux variables et assignez leurs des valeurs numériques, en n'utilisant qu'un seul mot-clé var.
+
+3. Voici une variable. Ecrivez une condition pour savoir si le contenu de cette variable est supérieur à 10. Si tel est le cas, affichez une fenêtre alert() pour en informer l'utilisateur.
+
+4. Écrivez une boucle while qui se répète 10 fois. Il est vrai qu'une boucle for serait plus adaptée, mais le but est de vous familiariser avec while.
+
+5. Déclarez une fonction, qui se contente d'afficher le texte Hello world! dans une alert().
+
+6. Déclarez trois variables a, b et c comme "1", "2" et a+b. Afficher le type et la valeur de chaque variable. Ensuite, forcez le type de a et b à entier et exécuter à nouveau a+b. Afficher le type et la valeur de chaque variable.
+
+7. Le code présent dans l'éditeur définit deux variables, numberA et numberB. Une troisème variable, biggest est définie, et contiendra le résultat retourné par la fonction whoIsThebigger(). À vous d'écrire cette foncion, sachant que son but est de comparer deux nombres et de retourner le plus grand des deux.
+
+8. Créer une fonction qui prend un paramètre A et un paramètre B et qui les additionne
+
+
+9. Créer une fonction qui prend un paramètre A et B et qui les soustrait / multiple / divise
+
+
+10. Créer une fonction qui prend en paramète A, et en paramètre B, 2 nombres, et un paramètre C avec un opérateur du style "+", "-", "/" ou "*"...
+En gros, faites une fonction "mini calculatrice"
+
+Du style calculer(parametreA, parametreB, parametreC);
+
+
+11. Calculer le salaire d'une personne sur base de son salaire brut en décomptant les frais suivants:
+
+    Impôts sur le revenu : 18%
+    Assurance employé : 7%
+    Régime de pensions du Canada : 5%
+
+Les personnes peuvent recevoir comme supplément un bonus de 100$ ou une allocation de 150$.
+
+Il est possible de recevoir des réductions sur les impôts sur le revenu sous certaines conditions :
+
+    Si le travailleur est une femme, elle reçoit 2% de réduction.
+    Si le travailleur a 3 personnes à charge, il reçoit 1% de réduction.
+    Si le travailleur a 4 personnes à charge, il reçoit 2% de réduction.
+

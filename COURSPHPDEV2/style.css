@@ -1,0 +1,11 @@
+.wrap {
+	margin: 4em;
+}
+
+.hidden-form {
+	display: none;
+}
+
+.navbar-brand {
+	color: white !important;
+}
